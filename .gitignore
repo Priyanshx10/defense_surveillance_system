@@ -22,3 +22,6 @@ data/snapshots/
 
 # IDE
 .vscode/
+
+#JSON files
+*.json
